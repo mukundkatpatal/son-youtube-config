@@ -5,8 +5,8 @@
   "maxVideosPerChannel": 25,
   "channels": [
     {
-      "channelId": "@BRIGHTSIDEOFFICIAL",
-      "title": "Example Channel",
+      "channelId": "UC4rlAVgAK0SGk-yTfe48Qpw",
+      "title": "BrightSide",
       "enabled": true
     }
   ],
