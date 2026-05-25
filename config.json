@@ -8,7 +8,67 @@
       "channelId": "UC4rlAVgAK0SGk-yTfe48Qpw",
       "title": "BrightSide",
       "enabled": true
-    }
+    },
+    {
+    "channelId": "UCIsEhwBMPkRHsEgqYAPQd_w",
+    "title": "ChessBase India",
+    "enabled": true
+  },
+  {
+    "channelId": "UCL5YbN5WLFD8dLIeg7wjJiQ",
+    "title": "agadmator's Chess Channel",
+    "enabled": true
+  },
+  {
+    "channelId": "UCM-ONC2bCHytG2mYtKDmIeA",
+    "title": "Saint Louis Chess Club",
+    "enabled": true
+  },
+  {
+    "channelId": "UCHP9CdeguNUI-_nBv_UXBhw",
+    "title": "Daniel Naroditsky",
+    "enabled": true
+  },
+  {
+    "channelId": "UCkJdvwRC-oGPhRHW_XPNokg",
+    "title": "Hanging Pawns",
+    "enabled": true
+  },
+  {
+    "channelId": "UC6EnFbK-P5q0zeaqI5yobKg",
+    "title": "Ben Finegold",
+    "enabled": true
+  },
+  {
+    "channelId": "UCMBATpFb--uLNAODOVWvCTA",
+    "title": "PowerPlayChess",
+    "enabled": true
+  },
+  {
+    "channelId": "UCa6WyJp7V6I6P4IwGIJzw6w",
+    "title": "Remote Chess Academy",
+    "enabled": true
+  },
+  {
+    "channelId": "UCQHX6ViZmPsWiYSFAyS0a3Q",
+    "title": "GothamChess",
+    "enabled": true
+  },
+  {
+    "channelId": "UCweCc7bSMX5J4jEH7HFImng",
+    "title": "ChessNetwork",
+    "enabled": true
+  },
+  {
+    "channelId": "UCvF3hDW9uc18aYTxmM6mi3Q",
+    "title": "Eric Rosen",
+    "enabled": true
+  },
+  {
+    "channelId": "UCm9K6rby98W8JigLoZOh6FQ",
+    "title": "GMHikaru",
+    "enabled": true
+  }
   ],
   "blockedVideoIds": [
     "VIDEOID1234"
