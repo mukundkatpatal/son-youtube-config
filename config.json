@@ -5,7 +5,7 @@
   "maxVideosPerChannel": 25,
   "channels": [
     {
-      "channelId": "UCxxxxxxxxxxxxxxxxxxxxxx",
+      "channelId": "@BRIGHTSIDEOFFICIAL",
       "title": "Example Channel",
       "enabled": true
     }
