@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-25T22:50:04.432Z",
+  "updatedAt": "2026-05-26T00:00:00.000Z",
   "refreshIntervalMinutes": 60,
   "maxVideosPerChannel": 100,
   "channels": [
@@ -10,12 +10,12 @@
       "enabled": true
     },
     {
-      "channelId": "UCIsEhwBMPkRHsEgqYAPQd_w",
+      "channelId": "UCIsEhwBMPkRHsEgqYAPQHsA",
       "title": "ChessBase India",
       "enabled": true
     },
     {
-      "channelId": "UCL5YbN5WLFD8dLIeg7wjJiQ",
+      "channelId": "UCL5YbN5WLFD8dLIegT5QAbA",
       "title": "agadmator's Chess Channel",
       "enabled": true
     },
@@ -45,7 +45,7 @@
       "enabled": true
     },
     {
-      "channelId": "UCa6WyJp7V6I6P4IwGIJzw6w",
+      "channelId": "UCsKZ2yOsgfNxln8xH5WkGvg",
       "title": "Remote Chess Academy",
       "enabled": true
     },
@@ -55,17 +55,17 @@
       "enabled": true
     },
     {
-      "channelId": "UCweCc7bSMX5J4jEH7HFImng",
+      "channelId": "UCCDOQrpqLqKVcTCKzqarxLg",
       "title": "ChessNetwork",
       "enabled": true
     },
     {
-      "channelId": "UCvF3hDW9uc18aYTxmM6mi3Q",
+      "channelId": "UCXy10-NEFGxQ3b4NVrzHw1Q",
       "title": "Eric Rosen",
       "enabled": true
     },
     {
-      "channelId": "UCm9K6rby98W8JigLoZOh6FQ",
+      "channelId": "UCweCc7bSMX5J4jEH7HFImng",
       "title": "GMHikaru",
       "enabled": true
     }
