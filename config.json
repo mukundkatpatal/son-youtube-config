@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-26T00:00:00.000Z",
+  "updatedAt": "2026-05-27T20:20:00.000Z",
   "refreshIntervalMinutes": 60,
   "maxVideosPerChannel": 100,
   "channels": [
@@ -80,22 +80,22 @@
       "enabled": true
     },
     {
-      "channelId": "UCY1kMZp36IQSyNx_9h4mpCg",
+      "channelId": "UCHnyfMqiRRG1u-2MsSQLbXA",
       "title": "Veritasium",
       "enabled": true
     },
     {
-      "channelId": "UC4a-Gbdw7vOaccHmFo40b9g",
+      "channelId": "UCsXVk37bltHxD1rDPwtNM8Q",
       "title": "Kurzgesagt – In a Nutshell",
       "enabled": true
     },
     {
-      "channelId": "UC3XTzVzaHQEd30rQbuvCtTQ",
+      "channelId": "UCSW0CYhKC1J0cpknZvN8MvQ",
       "title": "Universiteit van Nederland",
       "enabled": true
     },
     {
-      "channelId": "UCtFRv9O2AHqOZjjynzrv-xg",
+      "channelId": "UCqc2EjpKBRVWxy0Eh3qw03g",
       "title": "NTR Wetenschap",
       "enabled": true
     }
