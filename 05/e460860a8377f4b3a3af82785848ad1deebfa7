@@ -1,0 +1,19 @@
+config.json
+  s_65677feefd0d8f::t_eea6ea0c47e01c 3,83,88,93,98
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "05e460860a8377f4b3a3af82785848ad1deebfa7",
+  "prompts": {},
+  "sessions": {
+    "s_65677feefd0d8f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e5dd5-7e51-7a21-ba90-e7e9ad43f072",
+        "model": "gpt-5.5"
+      },
+      "human_author": "mukundkatpatal <mukundkatpatal@users.noreply.github.com>"
+    }
+  }
+}
