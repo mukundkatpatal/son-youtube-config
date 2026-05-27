@@ -73,6 +73,31 @@
       "channelId": "UCch2JvY2ZSwcjf5gb93HGQw",
       "title": "NOS Journaal in Makkelijke Taal",
       "enabled": true
+    },
+    {
+      "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+      "title": "3Blue1Brown",
+      "enabled": true
+    },
+    {
+      "channelId": "UCY1kMZp36IQSyNx_9h4mpCg",
+      "title": "Veritasium",
+      "enabled": true
+    },
+    {
+      "channelId": "UC4a-Gbdw7vOaccHmFo40b9g",
+      "title": "Kurzgesagt – In a Nutshell",
+      "enabled": true
+    },
+    {
+      "channelId": "UC3XTzVzaHQEd30rQbuvCtTQ",
+      "title": "Universiteit van Nederland",
+      "enabled": true
+    },
+    {
+      "channelId": "UCtFRv9O2AHqOZjjynzrv-xg",
+      "title": "NTR Wetenschap",
+      "enabled": true
     }
   ],
   "blockedVideoIds": [
