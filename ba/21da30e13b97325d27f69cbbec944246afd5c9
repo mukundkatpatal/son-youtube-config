@@ -1,0 +1,14 @@
+config.json
+  h_e4e43a5e1511e4 71-75
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "ba21da30e13b97325d27f69cbbec944246afd5c9",
+  "prompts": {},
+  "humans": {
+    "h_e4e43a5e1511e4": {
+      "author": "mukundkatpatal <mukundkatpatal@users.noreply.github.com>"
+    }
+  }
+}
