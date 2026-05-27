@@ -68,6 +68,11 @@
       "channelId": "UCweCc7bSMX5J4jEH7HFImng",
       "title": "GMHikaru",
       "enabled": true
+    },
+    {
+      "channelId": "UCch2JvY2ZSwcjf5gb93HGQw",
+      "title": "NOS Journaal in Makkelijke Taal",
+      "enabled": true
     }
   ],
   "blockedVideoIds": [
