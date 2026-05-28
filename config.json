@@ -98,8 +98,77 @@
       "channelId": "UCqc2EjpKBRVWxy0Eh3qw03g",
       "title": "NTR Wetenschap",
       "enabled": true
-    }
-  ],
+    },
+    {
+      "channelId": "UC96giptWg69kzhnuSkgo-Gg",
+      "title": "Effortless Charm",
+      "enabled": true
+    },
+    {
+    "channelId": "UCwpHKudUkP5tNgmMdexB3ow",
+    "title": "Mentour Pilot",
+    "enabled": true
+  },
+  {
+    "channelId": "UCcabW7890RKJzL968QWEykA",
+    "title": "74 Gear",
+    "enabled": true
+  },
+  {
+    "channelId": "UCGWd_NMbp7GxMg4bZO65heQ",
+    "title": "Captain Joe",
+    "enabled": true
+  },
+  {
+    "channelId": "UC8KQ7XIBiCzs5JzqPseT-tg",
+    "title": "Simple Flying",
+    "enabled": true
+  },
+  {
+    "channelId": "UCqT_NY57x0vu1jEMdZ_fQ4g",
+    "title": "Mustard",
+    "enabled": true
+  },
+  {
+    "channelId": "UC9RM-iSvTu1uPJb8X5yp3EQ",
+    "title": "Real Engineering",
+    "enabled": true
+  },
+  {
+    "channelId": "UC6107grRI4m0o2-emgoDnAA",
+    "title": "SmarterEveryDay",
+    "enabled": true
+  },
+  {
+    "channelId": "UCWXLdQJz0_M4T7UQ2M7PQ0w",
+    "title": "Fly By Wire Aviation",
+    "enabled": true
+  },
+  {
+    "channelId": "UCXhSCMRRPyxSoyLSPFxK7VA",
+    "title": "DJ’s Aviation",
+    "enabled": true
+  },
+  {
+    "channelId": "UCzQUP1qoWDoEbmsQxvdjxgQ",
+    "title": "Wendover Productions",
+    "enabled": true
+  },
+  {
+    "channelId": "UC4K10PNjqgGLKA3loQqsM3A",
+    "title": "Airforceproud95",
+    "enabled": true
+  },
+  {
+    "channelId": "UC2LxDkqoY6tqQ3fP0j5P-fA",
+    "title": "TheFlightChannel",
+    "enabled": true
+  },
+  {
+    "title": "Satvic Movement",
+    "channelId": "UCjzWdocKsR-WCZws7dTXMjg",
+    "url": "https://www.youtube.com/channel/UCjzWdocKsR-WCZws7dTXMjg"
+  }],
   "blockedVideoIds": [
     "VIDEOID1234"
   ],
