@@ -138,32 +138,46 @@
     "channelId": "UC6107grRI4m0o2-emgoDnAA",
     "title": "SmarterEveryDay",
     "enabled": true
-  },
-  {
-    "channelId": "UCWXLdQJz0_M4T7UQ2M7PQ0w",
-    "title": "Fly By Wire Aviation",
-    "enabled": true
-  },
-  {
-    "channelId": "UCXhSCMRRPyxSoyLSPFxK7VA",
-    "title": "DJ’s Aviation",
-    "enabled": true
-  },
-  {
-    "channelId": "UCzQUP1qoWDoEbmsQxvdjxgQ",
-    "title": "Wendover Productions",
-    "enabled": true
-  },
-  {
-    "channelId": "UC4K10PNjqgGLKA3loQqsM3A",
-    "title": "Airforceproud95",
-    "enabled": true
-  },
-  {
-    "channelId": "UC2LxDkqoY6tqQ3fP0j5P-fA",
-    "title": "TheFlightChannel",
-    "enabled": true
-  },
+  },{
+  "channelId": "UCovVc-qqwYp8oqwO3Sdzx7w",
+  "title": "74 Gear",
+  "enabled": true
+},
+{
+  "channelId": "UCT3wwJBh8fwePiNC63NlzCA",
+  "title": "Simple Flying",
+  "enabled": true
+},
+{
+  "channelId": "UC1ZBQ-F-yktYD4m5AzM6pww",
+  "title": "Mustard",
+  "enabled": true
+},
+{
+  "channelId": "UCR1IuLEqb6UEA_zQ81kwXfg",
+  "title": "Real Engineering",
+  "enabled": true
+},
+{
+  "channelId": "UC29_CCc5qpnRaVryYIKiLeg",
+  "title": "DJ’s Aviation",
+  "enabled": true
+},
+{
+  "channelId": "UC9RM-iSvTu1uPJb8X5yp3EQ",
+  "title": "Wendover Productions",
+  "enabled": true
+},
+{
+  "channelId": "UCfoK9LI9vmQQ36zqsFZtNJQ",
+  "title": "Airforceproud95",
+  "enabled": true
+},
+{
+  "channelId": "UCXh6VKhioaeEaMQasii7IfQ",
+  "title": "TheFlightChannel",
+  "enabled": true
+},
   {
     "title": "Satvic Movement",
     "channelId": "UCjzWdocKsR-WCZws7dTXMjg",
